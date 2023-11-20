@@ -320,5 +320,3 @@ classDiagram
 ## GitHub Repository
 [RL_Billiard GitHub Repository](https://github.com/FakanBalint/RL_Biliard)
 ```
-
-Copy and paste this template into a Markdown file, and it should provide a basic structure for your documentation with Mermaid diagrams. You can further customize the documentation based on your specific requirements.
